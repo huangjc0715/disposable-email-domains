@@ -1,3 +1,4 @@
+拒绝临时邮箱注册工具
 List of disposable email domains
 ========================
 
